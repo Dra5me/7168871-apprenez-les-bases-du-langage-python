@@ -1,6 +1,6 @@
 # Création des variables nom et age
-nom = "Jean"
-age = 25
+nom = "Drame"
+age = 30
 
 # Affichage de la phrase avec les variables
 print(f"Je m'appelle {nom} et j'ai {age} ans.")
